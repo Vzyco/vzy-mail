@@ -1,8 +1,8 @@
-interface params{
-    name:String;
-    link:String;
-}
-export default (params={} as params)=>{
+// interface params{
+//     name:String;
+//     link:String;
+// }
+module.exports = (params={})=>{
     let{name='',link=''}=params
     return`<div class="verification-mail-block">
     <svg fill="none" viewBox="0 0 71 21" xmlns="http://www.w3.org/2000/svg">
