@@ -1,5 +1,5 @@
 {
-  "name": "vzy-mails",
+  "name": "vzy-mail",
   "version": "1.0.0",
   "description": "mails for vzy",
   "main": "dist/index.js",
